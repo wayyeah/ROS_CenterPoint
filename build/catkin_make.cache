@@ -1,0 +1,2 @@
+centerpoint
+-DCATKIN_DEVEL_PREFIX=/home/nvidia/way/catkin_ws_centerpoint/devel -DCMAKE_INSTALL_PREFIX=/home/nvidia/way/catkin_ws_centerpoint/install -G Unix Makefiles

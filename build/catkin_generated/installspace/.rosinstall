@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/nvidia/way/catkin_ws_centerpoint/install/setup.sh
